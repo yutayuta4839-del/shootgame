@@ -151,5 +151,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ea19e9aa891ab64e94cdd7dac2e61f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Notes
-  speed: 3
+  speed: 4
   targettime: 0
