@@ -53,5 +53,8 @@ TagManager:
   - name: note
     uniqueID: 1702829785
     locked: 0
+  - name: player
+    uniqueID: 1066044257
+    locked: 0
   m_RenderingLayers:
   - Default
