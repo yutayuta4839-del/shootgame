@@ -13,7 +13,10 @@ public class Notes : MonoBehaviour
     void Update()
     {
         transform.position -= transform.up * speed * Time.deltaTime;
-       
+       if(transform.position.y < -5)
+        {
+            Destroy(this.gameObject);
+        }
     }
 
    

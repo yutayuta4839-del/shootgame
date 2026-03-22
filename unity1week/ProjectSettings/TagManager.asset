@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Notes
+  - boss
+  - enemyattack
   layers:
   - Default
   - TransparentFX
@@ -53,6 +55,12 @@ TagManager:
     locked: 0
   - name: note
     uniqueID: 1702829785
+    locked: 0
+  - name: player
+    uniqueID: 1330640469
+    locked: 0
+  - name: boss
+    uniqueID: 3826290465
     locked: 0
   m_RenderingLayers:
   - Default
